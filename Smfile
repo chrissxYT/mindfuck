@@ -1,0 +1,7 @@
+all {
+	%CC mfi mfi.c
+}
+
+clean {
+        !rm -f mfi
+}
